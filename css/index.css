@@ -1,0 +1,50 @@
+body {
+    font-family: "Helvetica", "Arial", Georgia;
+    line-height: 1.5;
+    padding: 2em 2em;
+    color: black;
+}
+h1 {
+    margin-top: auto;
+    color: red;
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+}
+code,
+pre {
+    background: #f5f7f9;
+    border-bottom: 1px solid #d8dee9;
+    color: #a7adba;
+}
+.col-sm-2{
+    font-size: 60px;
+    max-height: 90px;
+    text-align: center;
+    /*border: 1px solid;*/
+    margin-bottom: 5px;
+    width: 12%;
+}
+.col-sm-10{
+    overflow-y:scroll;
+    scroll-behavior: smooth;
+    border: 1px solid;
+    margin-left: 2px;
+    width: 82%;
+    text-transform: capitalize;
+}
+#myText{
+    height: 40px;
+    margin-left: 300px;
+    padding-left: 190px;
+}
+#myButton{
+    height: 45px;
+}
+.container{
+    width: 1000px;
+}
+
+
+
+
